@@ -1,0 +1,39 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+/.packages
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build outputs
+/build/
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/engine
+
+# Android
+/.gradle
+/.idea
+/android/.gradle
+
+# VSCode
+/.vscode/
+
+# IntelliJ
+*.iml
+/.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+**/google-services.json
+**/GoogleService-Info.plist
