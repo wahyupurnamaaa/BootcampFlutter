@@ -1,0 +1,29 @@
+name: tugas_bloc_restapi
+description: Tugas state management menggunakan Flutter BLoC dan Dio
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Tambahan untuk tugas
+  dio: ^5.7.0
+  flutter_bloc: ^8.1.4
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
